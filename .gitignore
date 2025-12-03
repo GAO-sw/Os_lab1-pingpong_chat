@@ -4,3 +4,5 @@ client
 *.exe
 *.o
 .vscode/
+build/
+cmake-build-debug/
